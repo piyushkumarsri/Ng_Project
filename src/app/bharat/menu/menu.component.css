@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+    background-color: green;
+} 
+.navbar-inverse .navbar-nav>li>a {
+    color: whitesmoke;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+#decor {
+    font-size: 12px;
+    background-color:#CC3333;
+}
+.dropdown-menu>li>a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #ffff;
+    white-space: nowrap;
+    background:transparent;
+}
+.navbar {
+    color: #FFFFFF;
+    background-color: #CC3333;
+}
+.navbar-inverse .navbar-brand {
+    color: black;
+}
