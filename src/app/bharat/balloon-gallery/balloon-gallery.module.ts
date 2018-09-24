@@ -14,7 +14,7 @@ import { CommonModule } from '@angular/common';
 
 const routes = [
     { path: "balloon-gallery", component: BalloonGalleryComponent },
-    { path: "birthday", component: BirthdayComponent },
+    //{ path: "birthday", component: BirthdayComponent },
     { path: "national", component: NationalFestivalComponent },
     // { path: "balloon-gallery", component: BalloonGalleryComponent },
     // { path: "balloon-gallery", component: BalloonGalleryComponent },
