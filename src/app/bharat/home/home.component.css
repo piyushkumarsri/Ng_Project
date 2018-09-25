@@ -12,13 +12,13 @@ body{
 #feedback{
 	background-color:#9db09f;
 	width:310px;
-	height:330px;
+	height:315px;
 	position:fixed;
 	bottom:0;
 	right:120px;
 	margin-bottom:-270px;
 	z-index:10000;
-	padding-bottom:40px;
+	padding-bottom:50px;
 	
 }
 
@@ -90,8 +90,8 @@ body{
 #feedback .message{
 	font-family:Corbel,Arial,sans-serif;
 	color:#5a665b;
-	text-shadow:1px 1px 0 #b3c2b5;
-	margin-bottom:20px;
+	text-shadow:5px 1px 0 #b3c2b5;
+	margin-bottom:5px;
 }
 
 #feedback .arrow{
@@ -149,6 +149,7 @@ a:hover{
 }
 .textCenter{
 	text-align:center;
-	margin-top:50px;
+	margin-top:25px;
+	margin-bottom:50px; 
 
 }
